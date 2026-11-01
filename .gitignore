@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
+early-diabetes-prediction-ml/
+early-diabetes-prediction-ml.zip
