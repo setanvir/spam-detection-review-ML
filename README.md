@@ -1,5 +1,12 @@
 # Spam Detection: Machine Learning Benchmark & Paper Reproduction
 
+Metropolitan University
+Course: SWE-318 Machine Learning Lab 
+Name: Mohammed Tanvir
+ID: 232-134-001
+
+
+
 [![tests](https://github.com/setanvir/spam-detection-review-ML/actions/workflows/ci.yml/badge.svg)](https://github.com/setanvir/spam-detection-review-ML/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
