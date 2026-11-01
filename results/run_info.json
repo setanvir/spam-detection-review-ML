@@ -1,0 +1,14 @@
+{
+  "data_file": "data/emails.csv",
+  "data_sha256": "a5d0d75d15d370ef2dd3229b30204b18deab6d3fd249206e89a2c58f901bcc77",
+  "n_samples": 5695,
+  "n_spam": 1368,
+  "n_ham": 4327,
+  "seed": 42,
+  "test_size": 0.2,
+  "max_features": 5000,
+  "python": "3.12.3",
+  "sklearn": "1.8.0",
+  "numpy": "2.4.4",
+  "pandas": "3.0.2"
+}
