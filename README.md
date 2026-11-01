@@ -1,9 +1,9 @@
 # Spam Detection: Machine Learning Benchmark & Paper Reproduction
 
-Metropolitan University
-Course: SWE-318 Machine Learning Lab 
-Name: Mohammed Tanvir
-ID: 232-134-001
+## Metropolitan University
+## Course: SWE-318 Machine Learning Lab 
+## Name: Mohammed Tanvir
+## ID: 232-134-001
 
 
 
